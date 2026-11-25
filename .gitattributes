@@ -1,0 +1,19 @@
+# Keep document and design archives byte-for-byte intact.
+*.pdf binary
+*.zip binary
+*.docx binary
+*.xlsx binary
+*.xls binary
+*.epro binary
+*.eprj binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Windows project and firmware artifacts.
+*.uvprojx text eol=crlf
+*.uvoptx text eol=crlf
+*.hex text eol=crlf
